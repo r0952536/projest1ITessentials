@@ -2,6 +2,7 @@ wanneer men digitale documenten aanmaakt en veracht dat men deze in de loop van 
 in software development is het aangeraden om zo de historiek van de aanpassingen bij te houden.
 de verschillende versies van de documenten zou men manueel kunnen bij houden door kopieën te maken en deze in folders te plaatsen, die verwijzen naar de versie door een nummering, waarin eventueel een verwijzing naar de datum zit.
 deze manier van werken is echter omslachtig. 
+
 men dient een goede naamgeving te voorzien en het geheel onderhouden is tijdrovend en kan op termijn zelfs onoverzichtelijk worden.
 daar bovenop komt dat als men met meerderen aan een project werkt, dat men dan ook nog de individuele wijzigingen moet synchroniseren (merging) wat het er zeker niet gemakkelijker op maakt.
 om die reden word er in zulke situaties gebruik gemaakt van versiebeheer. 
