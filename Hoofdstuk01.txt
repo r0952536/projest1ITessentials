@@ -1,4 +1,4 @@
-wanneer men digitale documenten aanmaakt en veracht dat men deze in de loop van de tijd diend aan te passen omdat er fouten in de inhoud kunnen voorkomen of omdat in de documenten aanpassingen en toevoegingen verwacht worden, is het handig om bij een wijziging van de inhoud de vorige inhoud alsnog bij te houden om zodoende indien het nodig is hierop terug te vallen. 
+wanneer men digitale documenten aanmaakt en veracht dat men deze in de loop van de tijd dient aan te passen omdat er fouten in de inhoud kunnen voorkomen of omdat in de documenten aanpassingen en toevoegingen verwacht worden, is het handig om bij een wijziging van de inhoud de vorige inhoud alsnog bij te houden om zodoende indien het nodig is hierop terug te vallen. 
 in software development is het aangeraden om zo de historiek van de aanpassingen bij te houden.
 de verschillende versies van de documenten zou men manueel kunnen bij houden door kopieën te maken en deze in folders te plaatsen, die verwijzen naar de versie door een nummering, waarin eventueel een verwijzing naar de datum zit.
 deze manier van werken is echter omslachtig. 
