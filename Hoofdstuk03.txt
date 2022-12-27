@@ -1,0 +1,9 @@
+Door de commits zijn er intussen verschillende versies aangemaakt. Men kan zich uiteraard afvragen hoe frequent men een commit moet uitvoeren.
+Het advies is:
+•	Regelmatig, maar ook niet te frequent
+•	Per wijziging, aanvulling of bug fix een commit
+•	Voorzie eenduidig commentaar
+De staging area is bedoeld om de aanpassingen eerst te reviewen alvorens een nieuwe versie aan te maken. In sommige gevallen – het is echter af te raden – kan men beslissen om de staging area over te slaan. Dit doet ment met het commando:
+•	git commit -am “commentaar”
+•	git commit -a
+In projecten komen vaak bestanden en directories voor, die men enkel lokaal in de werkdirectory nodig heeft en die overbodig zijn in de staging area en de repositories. Een voorbeeld daarvan zijn gecompileerde bestanden.
