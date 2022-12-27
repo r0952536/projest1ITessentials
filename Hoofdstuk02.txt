@@ -1,0 +1,3 @@
+In dit hoofdstuk wordt vanuit de command prompt het lokaal werken met Git toegelicht. Dit gebeurt aan instructies, die stap voor stap uitgevoerd moeten worden.
+Men kan ook via GitBASH werken, maar dan dient men de commando’s van BASH te gebruiken voor het werken met directories en bestanden.
+Open de command prompt, maak een directory (= oude naam voor folder) aan, waarin de Git projecten geplaatst worden en maak een directory voor het eerste Git project aan:
